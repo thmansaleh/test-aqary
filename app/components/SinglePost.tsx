@@ -31,9 +31,7 @@ const SinglePost: FC<SinglePostProps> = ({ title, id, body }) => {
           >
             {title}
           </Typography>
-          {/* <Typography variant="body2" color="text.secondary">
-            {body}
-          </Typography> */}
+      
         </CardContent>
       </CardActionArea>
       <CardActions>

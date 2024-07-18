@@ -1,4 +1,4 @@
-# Next.js Blog with Comments
+# Next.js Blog App  For Aqary Test
 
 This is a Next.js project that demonstrates fetching and displaying blog posts along with their comments. The project uses TypeScript and Material-UI for the user interface.
 
@@ -9,14 +9,16 @@ This is a Next.js project that demonstrates fetching and displaying blog posts a
 - Fetch and display comments related to a post.
 - Error handling for data fetching.
 - Server-side rendering with Next.js 14 server components.
+- SEO.
+
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/nextjs-blog-with-comments.git
-    cd nextjs-blog-with-comments
+    git clone https://github.com/thmansaleh/aqary.git
+    cd AQARY
     ```
 
 2. **Install dependencies:**

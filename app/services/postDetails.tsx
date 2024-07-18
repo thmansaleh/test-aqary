@@ -1,9 +1,4 @@
 
-// export const postDetails = async(postId:string )=>{
-//     const response = await fetch(`https://jsonplaceholder.typicode.com/posts/${postId}`)
-//     const details= await response.json()
-//     return details
-// }
 
 export const postDetails = async (postId: string) => {
     const response = await fetch(`https://jsonplaceholder.typicode.com/posts/${postId}`);
